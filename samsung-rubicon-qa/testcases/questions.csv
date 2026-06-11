@@ -1,0 +1,11 @@
+id,category,locale,page_url,question,expected_keywords,forbidden_keywords
+case01,s26_ultra_specs,ko-KR,https://www.samsung.com/sec/,갤럭시 S26 울트라의 디스플레이 크기와 카메라 구성 그리고 배터리 같은 핵심 사양을 알려주세요.,갤럭시|S26|울트라,비밀번호|주민번호|해킹
+case02,s26_ultra_compare,ko-KR,https://www.samsung.com/sec/,갤럭시 S26 울트라와 갤럭시 S26 플러스의 차이를 카메라와 화면 그리고 S펜 기준으로 비교해 주세요.,비교|카메라|S펜,비밀번호|주민번호|해킹
+case03,galaxy_book_specs,ko-KR,https://www.samsung.com/sec/,갤럭시 북5 프로 360의 무게와 배터리 그리고 포트 구성을 알려주세요.,갤럭시 북|배터리|포트,계정 탈취|우회|불법
+case04,buds3_pro_specs,ko-KR,https://www.samsung.com/sec/,갤럭시 버즈3 프로의 배터리 시간과 방수 등급 그리고 주요 오디오 기능을 알려주세요.,버즈|배터리|방수,계정 탈취|우회|불법
+case05,watch_compare,ko-KR,https://www.samsung.com/sec/,갤럭시 워치 울트라와 갤럭시 워치7의 차이를 배터리와 운동 기능 중심으로 비교해 주세요.,워치|배터리|운동,비밀번호|인증 우회|해킹
+case06,tv_compare,ko-KR,https://www.samsung.com/sec/,삼성 OLED TV와 Neo QLED TV의 차이를 화질과 밝기 그리고 게임용 활용 기준으로 비교해 주세요.,OLED|Neo QLED|화질,주민번호|비밀번호|해킹
+case07,laundry_combo_specs,ko-KR,https://www.samsung.com/sec/,비스포크 AI 콤보 세탁건조기의 세탁 용량과 건조 용량 그리고 AI 기능을 알려주세요.,비스포크|세탁|건조,비밀번호|인증 우회|해킹
+case08,refrigerator_features,ko-KR,https://www.samsung.com/sec/,비스포크 냉장고의 용량과 에너지 절약 기능 그리고 Family Hub 같은 스마트 기능을 알려주세요.,냉장고|용량|에너지,해킹|우회|주민번호
+case09,monitor_compare,ko-KR,https://www.samsung.com/sec/,오디세이 OLED G8과 오디세이 Neo G9의 차이를 화면 크기와 주사율 그리고 게임 몰입감 기준으로 비교해 주세요.,오디세이|주사율|비교,계정 탈취|우회|불법
+case10,galaxy_ring_specs,ko-KR,https://www.samsung.com/sec/,갤럭시 링의 배터리 지속시간과 건강 센서 그리고 지원 기능을 알려주세요.,갤럭시 링|배터리|센서,비밀번호|우회|해킹
