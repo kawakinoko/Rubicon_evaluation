@@ -2,7 +2,7 @@ name: Rubicon Hourly Cases 1-3
 
 'on':
   schedule:
-    - cron: '15 * * * *'
+#    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
